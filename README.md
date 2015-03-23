@@ -1,5 +1,5 @@
 # DHStexTemplate
-Modelo de Tese/Dissertação usando ABNTEX 2
+Modelo de Tese/Dissertação usando ABNTEX 2 (http://code.google.com/p/abntex2/)
 
 Template Customizado por Emílio Eiji Kavamura
 
